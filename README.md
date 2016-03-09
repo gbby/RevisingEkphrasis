@@ -1,0 +1,3 @@
+# Description
+
+*Revising Ekphrasis* is a collaborative visualization project that came about through the 2016 [Humanities Data Visualization](http://humanitiesvis.lmc.gatech.edu/) workshop held at Georgia Tech. Details and code coming soon...
