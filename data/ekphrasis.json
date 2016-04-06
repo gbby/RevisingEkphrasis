@@ -1,0 +1,29 @@
+{
+ "name": "topics",
+ "children": [
+  {
+   "name": "topic 01",
+   "children": [
+    {"name": "fc-000017", "size": 0.000566},
+    {"name": "fc-000030", "size": 0.33642983},
+    {"name": "po-000824", "size": 0.375464768}
+   ]
+  },
+  {
+   "name": "topic 02",
+   "children": [
+    {"name": "fc-000017", "size": 0.15245872},
+    {"name": "fc-000030", "size": 0.000428},
+    {"name": "po-000824", "size": 0.00004}
+   ] 
+  },
+  {
+   "name": "topic 03",
+   "children": [
+    {"name": "fc-000017", "size": 0.139310174},
+    {"name": "fc-000030", "size": 0.025912454},
+    {"name": "po-000824", "size": 0.00358302}
+   ] 
+  }
+ ]
+}
